@@ -9,4 +9,4 @@
 - **Resultado observado:** Muestra "[yith_wcwl_wishlist]"
 - **Severidad:** Baja
 - **Evidencia:** Captura de pantalla incluida
-- ![Captura del bug] (
+- ![Captura del bug] (BugListaDeseos.png)
